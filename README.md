@@ -1,2 +1,2 @@
-# forzas.github.io
-Blog
+# Forzas.github.io
+Technical Blog
